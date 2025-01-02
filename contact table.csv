@@ -1,0 +1,5 @@
+ContactID,CompanyID,FirstName,LastName,Street,City,State,Zip,IsMain,Email,Phone
+1,1,Ravi,Patel,lane1,baroda,gj,388268,1,ravipatel@gmail.com,942852362
+2,2,heli,sharma,lane2,ahmedbad,gj,388000,0,helisharma@gmail.com,9427041495
+3,1,Dianne,Connor,"lane5 ",vapi,gj,388659,1,dianneconnor@gmail.com,9586224568
+4,3,Rashi,khanna,lane3,narol,gj,388268,1,rkhann@gmail.com,9586247833

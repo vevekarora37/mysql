@@ -1,0 +1,4 @@
+EmployeeID,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+1,"Lesley Bland",england,3000.00,2024-12-25,admin,lesley12345@gmail.com,215-555-8800
+2,Raja,narang,6000.00,2024-12-19,supervisor,r.narang@gmail.com,9427564823
+3,"Jack ",lee,2500.00,2025-01-01,da,jlee@gmail.com,9123456780
